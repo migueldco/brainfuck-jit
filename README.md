@@ -1,6 +1,6 @@
-# brainfuck
+# brainfuck-jit
 
-This is a prototype for a brainfuck interpreter with a jit compiler.
+This is a prototype of an interpreter with a jit compiler for the '[brainfuck](https://en.wikipedia.org/wiki/Brainfuck)' language.
 
 ## Compilation
 ```
